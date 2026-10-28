@@ -3,6 +3,10 @@
 A navigation bar that stays hidden above the screen and slides down into view when you scroll down the page — and slides back up when you return to the top.
 
 
+## Screenshot
+
+![Demo](screenshots/demo.png)
+
 ## Features
 
 - Fixed navigation bar (Home, About Us, Our Products, Careers, Contact Us)
